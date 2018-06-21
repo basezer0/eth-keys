@@ -19,7 +19,7 @@ setup(
     setup_requires=['setuptools-markdown'],
     install_requires=[
         "eth-utils>=1.0.0-beta.2,<2.0.0",
-        "cytoolz>=0.9.0,<1.0.0",
+        "toolz>=0.8.2,<1.0.0",
     ],
     py_modules=['eth_keys'],
     license="MIT",

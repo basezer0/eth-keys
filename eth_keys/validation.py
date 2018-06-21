@@ -1,6 +1,6 @@
 from typing import Any
 
-from cytoolz import (
+from toolz import (
     curry,
 )
 
